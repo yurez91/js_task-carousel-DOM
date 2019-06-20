@@ -1,7 +1,9 @@
 @import "utils";
 @import "fonts";
 @import "typography";
+@import "twitter-card";
+@import "carousel-button";
 
 body {
-  background: $c-gray;
+  font-family: Lato, sans-serif;
 }
