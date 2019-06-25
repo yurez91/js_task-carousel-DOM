@@ -10,7 +10,7 @@ Create a “carousel” – a ribbon of twitter cards that can be scrolled by cl
 - You must only modify the file `src/scripts/main.js`, `src/index.html` and `src/styles/main.scss`
 
 ### Gif of result
-![](example/example.gif)
+![Example gif](./example/example.gif)
 
 ---
 **Read the guideline before start**
